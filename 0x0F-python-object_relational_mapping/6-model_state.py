@@ -1,5 +1,9 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 """python file that contains the class definition of a State and an instance Base = declarative_base
+=======
+"""Start link class to table in database
+>>>>>>> 20bf18da5ed5abefc3a2141dfeeec21d84b3c6eb
 """
 import sys
 from model_state import Base, State

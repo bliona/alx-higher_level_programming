@@ -20,3 +20,7 @@ INSERT INTO cities (state_id, name) VALUES (2, "Page"), (2, "Phoenix");
 INSERT INTO cities (state_id, name) VALUES (3, "Dallas"), (3, "Houston"), (3, "Austin");
 INSERT INTO cities (state_id, name) VALUES (4, "New York");
 INSERT INTO cities (state_id, name) VALUES (5, "Las Vegas"), (5, "Reno"), (5, "Henderson"), (5, "Carson City");
+<<<<<<< HEAD
+=======
+
+>>>>>>> 20bf18da5ed5abefc3a2141dfeeec21d84b3c6eb

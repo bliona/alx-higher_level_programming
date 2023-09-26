@@ -25,4 +25,7 @@ if __name__ == '__main__':
     session.add(newState)
     session.add(newCity)
     session.commit()
+<<<<<<< HEAD
 
+=======
+>>>>>>> 20bf18da5ed5abefc3a2141dfeeec21d84b3c6eb

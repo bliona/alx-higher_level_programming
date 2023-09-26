@@ -16,3 +16,7 @@ class State(Base):
     __tablename__ = 'states'
     id = Column(Integer, unique=True, nullable=False, primary_key=True)
     name = Column(String(128), nullable=False)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 20bf18da5ed5abefc3a2141dfeeec21d84b3c6eb

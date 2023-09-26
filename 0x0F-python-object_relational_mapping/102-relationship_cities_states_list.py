@@ -1,5 +1,10 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 """ script that lists all City objects from the database hbtn_0e_101_usa
+=======
+""" prints the State object with the name passed as argument from the database
+"""
+>>>>>>> 20bf18da5ed5abefc3a2141dfeeec21d84b3c6eb
 import sys
 from relationship_state import Base, State
 from relationship_city import City

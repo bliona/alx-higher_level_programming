@@ -1,5 +1,9 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 """  script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa """
+=======
+"""  lists all states from the database hbtn_0e_0_usa """
+>>>>>>> 20bf18da5ed5abefc3a2141dfeeec21d84b3c6eb
 import MySQLdb
 import sys
 
@@ -15,4 +19,7 @@ if __name__ == "__main__":
         print(row)
     cur.close()
     db.close()
+<<<<<<< HEAD
 
+=======
+>>>>>>> 20bf18da5ed5abefc3a2141dfeeec21d84b3c6eb

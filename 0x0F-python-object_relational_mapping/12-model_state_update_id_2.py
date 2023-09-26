@@ -1,5 +1,9 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 """ script that changes the name of a State object from the database hbtn_0e_6_usa
+=======
+""" prints the State object with the name passed as argument from the database
+>>>>>>> 20bf18da5ed5abefc3a2141dfeeec21d84b3c6eb
 """
 import sys
 from model_state import Base, State
@@ -16,4 +20,7 @@ if __name__ == "__main__":
     new_instance = session.query(State).filter_by(id=2).first()
     new_instance.name = 'New Mexico'
     session.commit()
+<<<<<<< HEAD
 
+=======
+>>>>>>> 20bf18da5ed5abefc3a2141dfeeec21d84b3c6eb
